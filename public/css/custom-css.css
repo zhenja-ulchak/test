@@ -1,0 +1,134 @@
+.font-main-logo {
+    font-size: 24px;
+    line-height: 36px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Montserrat";
+}
+
+.holder {
+    position: relative;
+    width: 360px;
+    height: 320px;
+}
+
+
+.margin-main-left{
+    margin-right: 20px;
+}
+
+
+.block {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: #c0301c;
+    padding: 20px;
+    display: none;
+    width: 360px;
+    height: 320px;
+    opacity: 0.8;
+}
+
+.holder:hover .block {
+    display: block;
+}
+
+.p-main{
+    padding: 105px 69px;
+}
+
+
+.btn-main-none {
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 24px;
+    color: #c0301c;
+    font-weight: 400;
+    max-width: 190px;
+    max-height: 40px;
+    background: #FFFFFF;
+    border: none;
+    font-family: "Roboto Slab";
+}
+
+/*font style*/
+.font-style-20 {
+    font-size: 20px;
+    line-height: 24px;
+    color: #555555;
+    font-weight: 400;
+    font-family: "Montserrat" ;
+
+}
+.font-roboto-16 {
+    font-size: 16px;
+    line-height: 24px;
+
+    font-weight: 400;
+    font-family: "Roboto Slab";
+
+}
+.font-style-monteserat-18 {
+    font-size: 18px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Montserrat" ;
+    text-align: center;
+}
+
+.font-style-Roboto-12{
+    font-size: 12px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Roboto Slab";
+}
+
+.style-footer-main {
+    font-size: 12px;
+    line-height: 20px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Roboto Slab" ;
+}
+.font-style-about {
+    font-size: 20px;
+    line-height: 24px;
+    color: #555555;
+    font-weight: 400;
+    font-family: "Montserrat" ;
+}
+.big-text-font {
+    font-size: 14px;
+    line-height: 24px;
+    color: #555555;
+    font-weight: 400;
+    font-family: "Roboto Slab" ;
+}
+.about-p-font {
+    font-size: 16px;
+    line-height: 24px;
+    color: #555555;
+    font-weight: 400;
+    font-family: "Roboto Slab";
+}
+.font-name-main {
+    font-size: 14px;
+    line-height: 24px;
+    color: #555555;
+    font-weight: 400;
+    font-family: "Montserrat";
+}
+.font-name-work {
+    font-size: 13px;
+    line-height: 24px;
+    color: #555555;
+    font-weight: 400;
+    font-family: "Roboto Slab";
+}
+
+/*font style*/
+
